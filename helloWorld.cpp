@@ -12,5 +12,6 @@ using namespace std;
 
 int main() {
     cout << "Hello, World!" << '\n';
+    cin.get(); // Pauses console execution before closing
     return 0;
 }
